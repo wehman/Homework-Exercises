@@ -1,4 +1,5 @@
 # ruby exercise20.rb test_exercise20.txt
+
 input_file = ARGV.first
 
 def print_all(f)
