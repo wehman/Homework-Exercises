@@ -2,7 +2,7 @@
 
 filename = ARGV.first
 
-txt = open(filename)
+txt = open(filename) # open file
 
 puts "Here's your file #{filename}:"
 print txt.read
