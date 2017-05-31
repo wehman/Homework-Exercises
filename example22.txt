@@ -1,0 +1,6 @@
+Sites to go to for Ruby code
+
+www.github.com
+www.launchpad.net
+www.gitorious.org
+www.sourceforge.net
